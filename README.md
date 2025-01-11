@@ -15,8 +15,7 @@ Example: Send Request:
 {
     "device": "Android",
     "geo": "GrameenPhone",
-    "bid_floor": 0.1,
-    "bidfloorcur":"BD"
+    "bid_floor": 0.1
 }
 
 Output:
